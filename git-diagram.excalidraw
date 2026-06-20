@@ -572,8 +572,8 @@
         "type": 3
       },
       "seed": 640523774,
-      "version": 62,
-      "versionNonce": 585359906,
+      "version": 63,
+      "versionNonce": 1415666338,
       "isDeleted": false,
       "boundElements": [
         {
@@ -581,15 +581,11 @@
           "type": "arrow"
         },
         {
-          "id": "2qZnbGocaUti8EnnEdiK6",
-          "type": "arrow"
-        },
-        {
           "id": "G1HzlYJMPOxLKJteIylD3",
           "type": "arrow"
         }
       ],
-      "updated": 1781946233528,
+      "updated": 1781948378025,
       "link": null,
       "locked": false
     },
@@ -944,11 +940,11 @@
         "type": 2
       },
       "seed": 679806782,
-      "version": 65,
-      "versionNonce": 1385277182,
-      "isDeleted": false,
+      "version": 66,
+      "versionNonce": 600395838,
+      "isDeleted": true,
       "boundElements": null,
-      "updated": 1781946203316,
+      "updated": 1781948378024,
       "link": null,
       "locked": false,
       "points": [
@@ -1140,8 +1136,8 @@
       "type": "text",
       "x": 1956.4453125,
       "y": 437.26171875,
-      "width": 172.81982421875,
-      "height": 25,
+      "width": 525.9933368682861,
+      "height": 76.08984375,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1155,15 +1151,15 @@
       "index": "aS",
       "roundness": null,
       "seed": 382652414,
-      "version": 22,
-      "versionNonce": 361504190,
+      "version": 34,
+      "versionNonce": 548882302,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1781946543813,
+      "updated": 1781948375882,
       "link": null,
       "locked": false,
       "text": "Continues delivery",
-      "fontSize": 20,
+      "fontSize": 60.871874999999996,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -1205,8 +1201,8 @@
     {
       "id": "7vvSMBoTwgL0V3cif6AtN",
       "type": "text",
-      "x": 2316,
-      "y": 197.5,
+      "x": 2294.953125,
+      "y": 190.375,
       "width": 101.77989196777344,
       "height": 25,
       "angle": 0,
@@ -1222,11 +1218,11 @@
       "index": "aU",
       "roundness": null,
       "seed": 56560382,
-      "version": 12,
-      "versionNonce": 2057321982,
+      "version": 50,
+      "versionNonce": 1647076990,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1781946553013,
+      "updated": 1781948364540,
       "link": null,
       "locked": false,
       "text": "Production",
